@@ -233,3 +233,25 @@ AI Engineering Project
 
 This project was developed for academic purposes as part of the MSSE AI Engineering course.
 
+
+## References
+
+1. Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., Goyal, N., Küttler, H., Lewis, M., Yih, W., Rocktäschel, T., Riedel, S., & Kiela, D. (2020). *Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks*. Advances in Neural Information Processing Systems (NeurIPS), 33, 9459–9474.
+
+2. LangChain. (2026). *LangChain Documentation*. https://python.langchain.com/
+
+3. Chroma. (2026). *Chroma Documentation*. https://docs.trychroma.com/
+
+4. Hugging Face. (2026). *Sentence Transformers Documentation*. https://huggingface.co/sentence-transformers
+
+5. Groq. (2026). *Groq Documentation*. https://console.groq.com/docs
+
+6. Streamlit. (2026). *Streamlit Documentation*. https://docs.streamlit.io/
+
+7. GitHub. (2026). *GitHub Actions Documentation*. https://docs.github.com/actions
+
+8. Pytest Development Team. (2026). *Pytest Documentation*. https://docs.pytest.org/
+
+9. Reimers, N., & Gurevych, I. (2019). *Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks*. Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing (EMNLP-IJCNLP), 3982–3992.
+
+10. Manning, C. D., Raghavan, P., & Schütze, H. (2008). *Introduction to Information Retrieval*. Cambridge University Press.
