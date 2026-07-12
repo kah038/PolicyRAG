@@ -58,27 +58,12 @@ Current knowledge base statistics:
 
 ---
 
-## System Architecture
+ ## System Architecture
 
-```text
-                 User
-                   │
-                   ▼
-          Streamlit Web Interface
-                   │
-                   ▼
-            RAG Pipeline
-                   │
-        ┌──────────┴──────────┐
-        ▼                     ▼
- ChromaDB Vector Store     Groq LLM
-        ▲                     │
-        │                     ▼
- Hugging Face Embeddings   Grounded Answer
-        ▲
-        │
- Company Policy Documents
-```
+The figure below illustrates the end-to-end architecture of **PolicyRAG Enterprise**.
+
+![PolicyRAG Enterprise System Architecture](images/system_architecture.png)
+
 
 ---
 
